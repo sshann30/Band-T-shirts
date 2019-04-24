@@ -15,27 +15,27 @@ class Landing extends Component {
               />
 
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
+              <h1>OUR COOL WEBSITE</h1>
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+          <p>All The stuff we do here</p>
 
         <div className="social-links">
 
           {/* LinkedIn */}
           <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-linkedin-square" aria-hidden="true" />
+            <i className="fa fa-apple" aria-hidden="true" />
           </a>
 
           {/* Github */}
           <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-github-square" aria-hidden="true" />
+            <i className="fa fa-spotify" aria-hidden="true" />
           </a>
 
           {/* Freecodecamp */}
           <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-free-code-camp" aria-hidden="true" />
+            <i className="fa fa-soundcloud" aria-hidden="true" />
           </a>
 
           {/* Youtube */}
